@@ -1,5 +1,5 @@
 # FB_Instant_Articles_wp
-Added some functionality to Face Book Instant Articles plugin for wordpress
+Added some functionality to <a href="https://wordpress.org/plugins/fb-instant-articles/">FaceBook Instant Pages</a> plugin for wordpress
 
 <img src="example.png" />
 
